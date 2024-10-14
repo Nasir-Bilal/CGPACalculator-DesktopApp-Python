@@ -227,3 +227,7 @@ label_cgpa = ttk.Label(results_frame, text="", font=("Arial", 12), width=10)
 label_cgpa.grid(row=2, column=1, padx=10, pady=5, sticky='w')
 
 window.mainloop()
+
+
+
+#https://github.com/Nasir-Bilal/CGPACalculator-DesktopApp-Python
